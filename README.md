@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parvez2204
-- 👀 I’m interested in developing
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on zoho
 - 📫 How to reach me 6385299700
